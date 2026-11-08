@@ -184,6 +184,41 @@
       "title": "Очень страшное кино",
       "year": "2000",
       "embed": "https://api.nextembed.ws/embed/movie/11967"
+    },
+    "ne-grozi-yuzhnomu-centralu": {
+      "title": "Не грози южному централу, попивая сок у себя в квартале",
+      "year": "1995",
+      "embed": "https://api.nextembed.ws/embed/movie/1224"
+    },
+    "mirniy-voin": {
+      "title": "Мирный воин",
+      "year": "2006",
+      "embed": "https://api.nextembed.ws/embed/movie/4791"
+    },
+    "gadkiy-ya-2010": {
+      "title": "Гадкий я",
+      "year": "2010",
+      "embed": "https://api.nextembed.ws/embed/movie/1421"
+    },
+    "gadkiy-ya-2-2013": {
+      "title": "Гадкий я 2",
+      "year": "2013",
+      "embed": "https://api.nextembed.ws/embed/movie/1422"
+    },
+    "gadkiy-ya-3-2017": {
+      "title": "Гадкий я 3",
+      "year": "2017",
+      "embed": "https://api.nextembed.ws/embed/movie/1423"
+    },
+    "gadkiy-ya-mini-filmy-minony-2010": {
+      "title": "Гадкий Я: Мини-фильмы. Миньоны",
+      "year": "2010",
+      "embed": "https://api.nextembed.ws/embed/movie/35771"
+    },
+    "gadkiy-ya-mini-filmy-minony-2014": {
+      "title": "Гадкий Я: Мини-фильмы. Миньоны",
+      "year": "2014",
+      "embed": "https://api.nextembed.ws/embed/movie/16919"
     }
   },
   "series": {
