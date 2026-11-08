@@ -1,0 +1,285 @@
+{
+  "movies": {
+    "rambo": {
+      "title": "Рэмбо: Первая кровь",
+      "year": "1982",
+      "embed": "https://api.nextembed.ws/embed/movie/980"
+    },
+    "rambo2": {
+      "title": "Рэмбо: Первая кровь 2",
+      "year": "1985",
+      "embed": "https://api.nextembed.ws/embed/movie/981"
+    },
+    "rambo3": {
+      "title": "Рэмбо 3",
+      "year": "1988",
+      "embed": "https://api.nextembed.ws/embed/movie/982"
+    },
+    "rambo4": {
+      "title": "Рэмбо IV",
+      "year": "2007",
+      "embed": "https://api.nextembed.ws/embed/movie/983"
+    },
+    "interstellar": {
+      "title": "Интерстеллар",
+      "year": "2014",
+      "embed": "https://api.nextembed.ws/embed/movie/180"
+    },
+    "spiderman-new-day": {
+      "title": "Человек-паук: Новый день",
+      "year": "2026",
+      "embed": "https://api.nextembed.ws/embed/movie/90039"
+    },
+    "nightmare-before-christmas": {
+      "title": "Кошмар перед Рождеством",
+      "year": "1993",
+      "embed": "https://api.nextembed.ws/embed/movie/3467"
+    },
+    "halloween-2007": {
+      "title": "Хэллоуин 2007",
+      "year": "2007",
+      "embed": "https://api.nextembed.ws/embed/movie/3981"
+    },
+    "scream": {
+      "title": "Крик",
+      "year": "1996",
+      "embed": "https://api.nextembed.ws/embed/movie/4352"
+    },
+    "harry-potter-1": {
+      "title": "Гарри Поттер и философский камень",
+      "year": "2001",
+      "embed": "https://api.nextembed.ws/embed/movie/383"
+    },
+    "harry-potter-2": {
+      "title": "Гарри Поттер и Тайная комната",
+      "year": "2002",
+      "embed": "https://api.nextembed.ws/embed/movie/384"
+    },
+    "harry-potter-3": {
+      "title": "Гарри Поттер и узник Азкабана",
+      "year": "2004",
+      "embed": "https://api.nextembed.ws/embed/movie/385"
+    },
+    "harry-potter-4": {
+      "title": "Гарри Поттер и Кубок огня",
+      "year": "2005",
+      "embed": "https://api.nextembed.ws/embed/movie/386"
+    },
+    "batman-begins": {
+      "title": "Бэтмен: Начало",
+      "year": "2005",
+      "embed": "https://api.nextembed.ws/embed/movie/1366"
+    },
+    "dark-knight": {
+      "title": "Темный рыцарь",
+      "year": "2008",
+      "embed": "https://api.nextembed.ws/embed/movie/3066"
+    },
+    "dark-knight-rises": {
+      "title": "Темный рыцарь: Возрождение легенды",
+      "year": "2012",
+      "embed": "https://api.nextembed.ws/embed/movie/469"
+    },
+    "terminator": {
+      "title": "Терминатор",
+      "year": "1984",
+      "embed": "https://api.nextembed.ws/embed/movie/505"
+    },
+    "terminator-2": {
+      "title": "Терминатор 2: Судный день",
+      "year": "1991",
+      "embed": "https://api.nextembed.ws/embed/movie/506"
+    },
+    "spiderman-2002": {
+      "title": "Человек-паук",
+      "year": "2002",
+      "embed": "https://api.nextembed.ws/embed/movie/1143"
+    },
+    "spiderman-2": {
+      "title": "Человек-паук 2",
+      "year": "2004",
+      "embed": "https://api.nextembed.ws/embed/movie/1144"
+    },
+    "spiderman-3": {
+      "title": "Человек-паук 3: Враг в отражении",
+      "year": "2007",
+      "embed": "https://api.nextembed.ws/embed/movie/1145"
+    },
+    "american-psycho": {
+      "title": "Американский психопат",
+      "year": "2000",
+      "embed": "https://api.nextembed.ws/embed/movie/4372"
+    },
+    "winnie-the-pooh": {
+      "title": "Приключения Винни Пуха",
+      "year": "1977",
+      "embed": "https://api.nextembed.ws/embed/movie/18299"
+    },
+    "17-again": {
+      "title": "Папе снова 17",
+      "year": "2009",
+      "embed": "https://api.nextembed.ws/embed/movie/1277"
+    },
+    "krepkiy-oreshek": {
+      "title": "Крепкий орешек",
+      "year": "1988",
+      "embed": "https://api.nextembed.ws/embed/movie/599"
+    },
+    "most-v-terabitiyu": {
+      "title": "Мост в Терабитию",
+      "year": "2006",
+      "embed": "https://api.nextembed.ws/embed/movie/946"
+    },
+    "polyarniy-ekspress": {
+      "title": "Полярный экспресс",
+      "year": "2004",
+      "embed": "https://api.nextembed.ws/embed/movie/3481"
+    },
+    "grinch-2018": {
+      "title": "Гринч",
+      "year": "2018",
+      "embed": "https://api.nextembed.ws/embed/movie/3450"
+    },
+    "otpusk-po-obmenu": {
+      "title": "Отпуск по обмену",
+      "year": "2006",
+      "embed": "https://api.nextembed.ws/embed/movie/834"
+    },
+    "realnaya-lyubov": {
+      "title": "Реальная любовь",
+      "year": "2003",
+      "embed": "https://api.nextembed.ws/embed/movie/341"
+    },
+    "grinch-2000": {
+      "title": "Гринч – похититель Рождества",
+      "year": "2000",
+      "embed": "https://api.nextembed.ws/embed/movie/3252"
+    },
+    "v-duhe-rozhdestva": {
+      "title": "В духе Рождества",
+      "year": "2022",
+      "embed": "https://api.nextembed.ws/embed/movie/60512"
+    },
+    "charlie-and-chocolate-factory": {
+      "title": "Чарли и шоколадная фабрика",
+      "year": "2005",
+      "embed": "https://api.nextembed.ws/embed/movie/960"
+    },
+    "home-alone": {
+      "title": "Один дома",
+      "year": "1990",
+      "embed": "https://api.nextembed.ws/embed/movie/877"
+    },
+    "home-alone-2": {
+      "title": "Один дома 2: Затерянный в Нью-Йорке",
+      "year": "1992",
+      "embed": "https://api.nextembed.ws/embed/movie/878"
+    },
+    "nightmare-on-elm-street": {
+      "title": "Кошмар на улице Вязов",
+      "year": "1984",
+      "embed": "https://api.nextembed.ws/embed/movie/4357"
+    },
+    "scary-movie": {
+      "title": "Очень страшное кино",
+      "year": "2000",
+      "embed": "https://api.nextembed.ws/embed/movie/11967"
+    }
+  },
+  "series": {
+    "breaking-bad": {
+      "title": "Во все тяжкие",
+      "year": "2008",
+      "embed": "https://api.nextembed.ws/embed/movie/255",
+      "seasons": {
+        "1": 7,
+        "2": 13,
+        "3": 13,
+        "4": 13,
+        "5": 16
+      }
+    },
+    "better-call-saul": {
+      "title": "Лучше звоните Солу",
+      "year": "2015",
+      "embed": "https://api.nextembed.ws/embed/movie/446",
+      "seasons": {
+        "1": 10,
+        "2": 10,
+        "3": 10,
+        "4": 10,
+        "5": 10,
+        "6": 13
+      }
+    },
+    "mr-robot": {
+      "title": "Мистер Робот",
+      "year": "2015",
+      "embed": "https://api.nextembed.ws/embed/movie/432",
+      "seasons": {
+        "1": 10,
+        "2": 12,
+        "3": 10,
+        "4": 13
+      }
+    },
+    "black-mirror": {
+      "title": "Черное зеркало",
+      "year": "2011",
+      "embed": "https://api.nextembed.ws/embed/movie/349",
+      "seasons": {
+        "1": 3,
+        "2": 3,
+        "3": 6,
+        "4": 6,
+        "5": 3,
+        "6": 5,
+        "7": 6
+      }
+    },
+    "the-boys": {
+      "title": "Пацаны",
+      "year": "2019",
+      "embed": "https://api.nextembed.ws/embed/movie/5780",
+      "seasons": {
+        "1": 8,
+        "2": 8,
+        "3": 8,
+        "4": 8
+      }
+    },
+    "dexter": {
+      "title": "Декстер",
+      "year": "2006",
+      "embed": "https://api.nextembed.ws/embed/movie/400",
+      "seasons": {
+        "1": 12,
+        "2": 12,
+        "3": 12,
+        "4": 12,
+        "5": 12,
+        "6": 12,
+        "7": 12,
+        "8": 12
+      }
+    },
+    "the-walking-dead": {
+      "title": "Ходячие мертвецы",
+      "year": "2010",
+      "embed": "https://api.nextembed.ws/embed/movie/1285",
+      "seasons": {
+        "1": 6,
+        "2": 13,
+        "3": 16,
+        "4": 16,
+        "5": 16,
+        "6": 16,
+        "7": 16,
+        "8": 16,
+        "9": 16,
+        "10": 22,
+        "11": 24
+      }
+    }
+  }
+}
